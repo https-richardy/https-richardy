@@ -5,12 +5,12 @@
 
 * **🗓️ Idade:** 18 anos.
 * **📕 Cursos:**  
-    1. Python3 - Curso Em Vídeo (Concluído)
-    2. Django Web Framework & Rest Framework - Udemy (Cursando) 
-    3. Csharp - Udemy (Cursando)
+    * Python3 - Curso Em Vídeo (Concluído)
+    * Django Web Framework & Rest Framework - Udemy (Cursando) 
+    * Csharp - Udemy (Cursando)
 * **🌐 Idiomas:**  
-    1. Português - Nativo
-    2. Inglês - Básico
+    * Português - Nativo
+    * Inglês - Básico
 
 ---
 

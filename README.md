@@ -1,16 +1,16 @@
-### **🖥️ Desenvolvedor BackEnd | Apaixonado por tecnologia**
+### **🖥️ Desenvolvedor BackEnd | Apaixonado por tecnologia**  
 
-#### **! Sobre:** Sou um desenvolvedor/programador com conhecimento em Python e busca se desenvolver na área de desenvolvimento backend. Atualmente, estou fazendo um curso na Udemy sobre o framework [Django](https://kenzie.com.br/blog/django/) em Python, sempre buscando aprender mais. Após concluir esse curso, pretendo retomar meus estudos em C# e ASP.NET. 
+#### **Sobre:**  Sou um desenvolvedor/programador com conhecimento em Python e busca se desenvolver na área de desenvolvimento backend. Atualmente, estou fazendo um curso na Udemy sobre o framework Django em Python, sempre buscando aprender mais. Após concluir esse curso, pretendo retomar meus estudos em C# e ASP.NET. 
 ---
 
 * **🗓️ Idade:** 18 anos.
 * **📕 Cursos:**  
-    * Python3 - Curso Em Vídeo (Concluído)
-    * Django Web Framework & Rest Framework - Udemy (Cursando) 
-    * Csharp - Udemy (Cursando)
+    * **Python3** - Curso Em Vídeo (Concluído)
+    * **Django Web Framework & Rest Framework** - Udemy (Cursando) 
+    * **Csharp** - Udemy (Cursando)
 * **🌐 Idiomas:**  
-    * Português - Nativo
-    * Inglês - Básico
+    * **Português** - Nativo
+    * **Inglês** - Básico
 
 ---
 

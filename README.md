@@ -1,7 +1,9 @@
-### **🖥️ Desenvolvedor BackEnd | Apaixonado por tecnologia**  
+## **🖥️ Desenvolvedor BackEnd | Apaixonado por tecnologia**  
 
-#### **Sobre:**  Sou um desenvolvedor/programador com conhecimento em Python e busca se desenvolver na área de desenvolvimento backend. Atualmente, estou fazendo um curso na Udemy sobre o framework Django em Python, sempre buscando aprender mais. Após concluir esse curso, pretendo retomar meus estudos em C# e ASP.NET. 
----
+### **Sobre:** 
+ Sou um desenvolvedor/programador com conhecimento em Python e busca se desenvolver na área de desenvolvimento backend. Atualmente, estou fazendo um curso na Udemy sobre o framework Django em Python, sempre buscando aprender mais. Após concluir esse curso, pretendo retomar meus estudos em C# e ASP.NET. 
+
+<br>
 
 * **🗓️ Idade:** 18 anos.
 * **📕 Cursos:**  

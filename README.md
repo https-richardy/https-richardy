@@ -8,10 +8,6 @@
     * **Python3** - Curso Em Vídeo (Concluído)
     * **Django Web Framework & Rest Framework** - Udemy (Cursando) 
     * **Csharp** - Udemy (Cursando)
-* **🌐 Idiomas:**  
-    * **Português** - Nativo
-    * **Inglês** - Básico
-
 ---
 
 ## **Tecnologias que eu uso**

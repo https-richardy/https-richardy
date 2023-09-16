@@ -8,7 +8,7 @@
 * **📕 Cursos:**  
     * **Python3** - Curso Em Vídeo (Concluído)
     * **Django Web Framework & Rest Framework** - Udemy (Concluído) 
-    * **Csharp** - Udemy (Cursando)
+    * **Csharp** - Udemy (Concluído)
 ---
 
 ## **Tecnologias que eu uso**

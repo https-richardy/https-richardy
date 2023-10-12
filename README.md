@@ -1,7 +1,7 @@
 ## **🖥️ Desenvolvedor BackEnd**  
 
 ### **Sobre:** 
- Sou um desenvolvedor/programador com conhecimento em Python e busca se desenvolver na área de desenvolvimento backend e criação de REST APis.
+ Sou um desenvolvedor/programador com conhecimento em Python e C# e busca se desenvolver na área de desenvolvimento BackEnd na criação de RESTful APis.
 
 <br>
 

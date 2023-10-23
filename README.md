@@ -5,11 +5,11 @@
 
 <br>
 
-* **📕 Cursos:**  
+* **📕 Cursos** (ao clicar no nome do curso você pode ver o certificado):
     * **Python3** - Curso Em Vídeo (Concluído)
-    * **Django Web Framework & Rest Framework** - Udemy (Concluído) 
-    * **Csharp** - Udemy (Concluído)
-    * **Blazor Web Assembly** - Udemy (Cursando)
+    * [**Django Web Framework & Rest Framework**](https://www.udemy.com/certificate/UC-2d97f0e7-030c-4b9e-9c3b-c5a294af81d8/) - Udemy (Concluído) 
+    * [**Csharp**](https://www.udemy.com/certificate/UC-cd4b352a-c997-4b2b-ab29-5fb8b2edb747/) - Udemy (Concluído)
+    * [**Blazor Web Assembly**](https://www.udemy.com/certificate/UC-2d97f0e7-030c-4b9e-9c3b-c5a294af81d8/) - Udemy (Concluído) 
 ---
 
 ## **Tecnologias que eu uso**

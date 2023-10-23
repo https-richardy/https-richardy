@@ -21,3 +21,12 @@
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp">
 </div>
+
+ - **ASP.NET**
+ - **Entity Framework Core**
+ - **Blazor Web Assembly**
+ - **Bootstrap**
+
+
+## Contato
+- **Email**: [code.richardy@gmail.com](mailto:code.richardy@gmail.com)

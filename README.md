@@ -1,7 +1,8 @@
-## **🖥️ Desenvolvedor BackEnd**  
+<h1 align="center">Oi, Eu sou o Richard - Desenvolvedor Back-end!</h1> 
 
-### **Sobre:** 
- Sou um desenvolvedor/programador com conhecimento em Python e C# e busca se desenvolver na área de desenvolvimento BackEnd na criação de RESTful APis.
+<h3>ⓘ Sobre mim</h3>
+
+Desenvolvedor com experiência em Python e C#, focado no aprimoramento das habilidades de BackEnd, especialmente na criação de APIs REST utilizando C#.
 
 <br>
 

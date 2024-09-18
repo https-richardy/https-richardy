@@ -1,16 +1,7 @@
-<h1 align="center">Oi, Eu sou o Richard - Desenvolvedor Back-end!</h1> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&duration=1000&pause=1000&color=C3C3C3&width=435&lines=Oi%2C+eu+sou+o+Richard!;Programador+backend+(.NET%2FC%23);experi%C3%AAncia+em+projetos;independentes+e+terceirizados;Tenho+foco+na+codifica%C3%A7%C3%A3o%2C+testes+;e+qualidade+do+c%C3%B3digo)](https://git.io/typing-svg)
 
-<h3>ⓘ Sobre mim</h3>
+Programador Backend com 2 anos de experiência prática em desenvolvimento utilizando C# e .NET. Possuo experiência em projetos independentes e terceirizados, com capacidade para construir sistemas e APIs RESTful do zero. Tenho foco na codificação, testes e qualidade do código, seguindo boas práticas e princípios sólidos de desenvolvimento de software.
 
-Desenvolvedor com experiência em Python e C#, focado no aprimoramento das habilidades de BackEnd, especialmente na criação de APIs REST utilizando C#.
-
-<br>
-
-* **📕 Cursos** (ao clicar no nome do curso você pode ver o certificado):
-    * **Python3** - Curso Em Vídeo (Concluído)
-    * [**Django Web Framework & Rest Framework**](https://www.udemy.com/certificate/UC-cd4b352a-c997-4b2b-ab29-5fb8b2edb747/) - Udemy (Concluído) 
-    * [**Csharp**](https://www.udemy.com/certificate/UC-ee2cd748-7742-4405-8252-28afce0b795b/) - Udemy (Concluído)
-    * [**Blazor Web Assembly**](https://www.udemy.com/certificate/UC-2d97f0e7-030c-4b9e-9c3b-c5a294af81d8/) - Udemy (Concluído) 
 ---
 
 ## **Tecnologias que eu uso**
